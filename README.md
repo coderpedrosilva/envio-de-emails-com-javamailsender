@@ -18,7 +18,7 @@ Gmail) e a senha de aplicativo gerada no Gmail.
 ### Configuração no Gmail
 1. Para que o sistema possa enviar e-mails pelo Gmail, é necessário seguir as seguintes etapas:
 
-2. Ativar a **'Verificação em Duas'** Etapas na sua conta do Gmail, se ainda não estiver ativada.
+2. Ativar a **'Verificação em Duas Etapas'** na sua conta do Gmail, se ainda não estiver ativada.
 
 3. Gerar uma **'Senha de Aplicativo'** para o sistema. Isso é feito na seção "Senhas de app" nas 
 configurações de segurança da sua conta do Google. Selecione a opção "Outro (Personalizado)" 
