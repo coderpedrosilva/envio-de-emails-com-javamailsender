@@ -30,9 +30,9 @@ A senha gerada será usada como a senha de acesso no código do sistema.
 1. Clone este repositório para o seu ambiente de desenvolvimento.
 
 2. Edite o arquivo **'mail.properties'** e substitua as informações pelo seu endereço de e-mail Gmail
-3. e a senha de aplicativo gerada.
+e a senha de aplicativo gerada.
 
-4. Configure o envio de e-mails no arquivo **'usuario.http'** substituindo seus campos.
+3. Configure o envio de e-mails no arquivo **'usuario.http'** substituindo seus campos.
 
 Lembre-se de que a segurança é fundamental ao lidar com credenciais de e-mail. Certifique-se de não 
 compartilhar ou expor suas informações de autenticação.
