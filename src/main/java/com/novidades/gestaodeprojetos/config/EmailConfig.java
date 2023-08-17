@@ -11,7 +11,7 @@ import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
 
 @Configuration
-@PropertySource("classpath:env/email.properties")
+@PropertySource("classpath:env/mail.properties")
 public class EmailConfig {
 
     @Autowired
@@ -31,6 +31,7 @@ public class EmailConfig {
         props.put("mail.smtp.auth", "true");
         props.put("mail.smtp.starttls.enable", "true");
         props.put("mail.debug", "true");
+        props.put("mail.smtp.host", "smtp.gmail.com");
 
         return mailSender;
     }
