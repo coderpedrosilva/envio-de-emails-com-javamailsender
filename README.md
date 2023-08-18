@@ -2,7 +2,7 @@
 
 O código apresentado demonstra como configurar a funcionalidade de envio de e-mails utilizando o 
 Spring Framework e a biblioteca JavaMailSender. O sistema é configurado para se comunicar com o 
-servidor SMTP do Gmail e enviar e-mails a partir dele.
+servidor SMTP do Gmail e enviar e-mails a partir dele. Há uma conexão com o banco de dados PostgreSQL.
 
 ## Configuração
 ### EmailConfig.java
